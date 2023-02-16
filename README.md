@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wellserrano
 - 👀 I’m interested in literature, cinema and music
-- 🌱 I’m currently learning Node.js and React
-- 📫 You can reach me at mh.wserrano@gmail.com
+- 🌱 I’m currently creating a portfolio to show my skills using JS/TS, Node.js and React
+- 📫 You can reach me at well.serrano@yahoo.com.br
 
 <!---
 wellserrano/wellserrano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
