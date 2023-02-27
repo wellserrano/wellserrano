@@ -35,6 +35,3 @@
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellserrano&theme=dark)
 
-
-![Snake animation](https://github.com/wellserrano/wellserrano/blob/output/github-contribution-grid-snake.svg)
-
