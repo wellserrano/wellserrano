@@ -14,7 +14,7 @@
 
 ## **Main Technologies**
 
-*Programming languages:*
+*Programming:*
 
 <a href='https://www.javascript.com/'>![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
 <a href='https://www.typescriptlang.org/'>![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</a>
