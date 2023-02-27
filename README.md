@@ -4,4 +4,5 @@
 - 👀 I’m interested in literature, cinema and music
 - 📫 You can reach me at well.serrano@yahoo.com.br
 
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+Contact:
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
