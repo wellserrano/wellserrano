@@ -5,4 +5,5 @@
 - 📫 You can reach me at well.serrano@yahoo.com.br
 
 Contact:
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<a href='https://www.linkedin.com/in/wellserrano/'>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
